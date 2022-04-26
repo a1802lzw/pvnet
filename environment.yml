@@ -19,10 +19,9 @@ dependencies:
   - cython==0.29.14
   - tensorboardx
   - pip
-  - pip:
-      - plyfile==0.6
-      - opencv_contrib_python==3.4.2.16
-      - lmdb==0.94
-      - glumpy==1.0.6
-      - scikit_image==0.13.1
-      - easydict==1.7
+  - plyfile==0.6
+  - opencv_contrib_python==3.4.2.16
+  - lmdb==0.94
+  - glumpy==1.0.6
+  - scikit_image==0.13.1
+  - easydict==1.7
